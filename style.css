@@ -1,0 +1,95 @@
+.sidebar1 {
+  background-color: #576172;
+    /*background: #576172;
+    /* For browsers that do not support gradients */
+    /*background: -webkit-linear-gradient(#576172, #F58D63, #f1ab53);
+    /* For Safari 5.1 to 6.0 */
+    /*background: -o-linear-gradient(#576172, #F58D63, #f1ab53);
+    /* For Opera 11.1 to 12.0 */
+    /*background: -moz-linear-gradient(#576172, #F58D63, #f1ab53);
+    /* For Firefox 3.6 to 15 */
+    /*background: linear-gradient(#F17153, #F58D63, #f1ab53);
+    /* Standard syntax */
+    padding: 0px;
+    min-height: 100%;
+}
+.logo {
+    max-height: 130px;
+}
+.profile-userpic img {
+  float: none;
+  margin: 0 auto;
+  width: 50%;
+  height: 50%;
+  -webkit-border-radius: 50% !important;
+  -moz-border-radius: 50% !important;
+  border-radius: 50% !important;
+}
+.logo>img {
+    margin-top: 30px;
+    padding: 3px;
+    border: 3px solid white;
+    border-radius: 100%;
+}
+.btn-primary-outline {
+  background-color: transparent;
+  border-color: #ccc;
+  border:0px solid transparent;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+.list {
+    color: #fff;
+    list-style: none;
+    padding-left: 0px;
+}
+.list::first-line {
+    color: rgba(255, 255, 255, 0.5);
+}
+.list> li, h5 {
+    padding: 5px 0px 5px 40px;
+}
+.list>li:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-left: 5px solid white;
+    color: white;
+    font-weight: bolder;
+    padding-left: 35px;
+}
+.main-content{
+    text-align:center;
+    padding: 0 !important;
+}
+.head-image{
+  padding: 0 !important;
+  height: 430px;
+}
+.first-half{
+  padding: 0 !important;
+  position: relative;
+   width: 100%;
+}
+.text-data{
+  position: absolute;
+  color: #eaecef;
+   top: 150px;
+   left: 0;
+   width: 100%;
+   text-align: left!important;
+   margin-left: 50px;
+}
+.heading{
+  padding-bottom: 20px;
+}
+.second-half{
+  padding: 50px;
+  text-align: left!important;
+}
+.bottom-image{
+  margin-bottom: 30px;
+  margin-top: 30px;
+  border: 2px solid #9ea2a8;
+}
+.link{
+  color: white;
+}
